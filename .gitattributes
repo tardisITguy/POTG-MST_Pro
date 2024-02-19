@@ -8,3 +8,4 @@ Content/Hyper/AutoLandScapeMaterial/Maps/Mountain/Map_Mountain.umap filter=lfs d
 */Rig/*rig_v001.uasset filter=lfs diff=lfs merge=lfs -text
 Gideon_Status_Victory_040.uasset filter=lfs diff=lfs merge=lfs -text
 *Gideon_Status_Victory_040.uasset filter=lfs diff=lfs merge=lfs -text
+*T_Head_highpass_S.uasset filter=lfs diff=lfs merge=lfs -text
