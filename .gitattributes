@@ -1,1 +1,7 @@
 .mp4 filter=lfs diff=lfs merge=lfs -text
+.umap filter=lfs diff=lfs merge=lfs -text
+Content/Hyper/AI/Creature/Teuthisan/Rig/SKM_Teuthisan_rig_v001.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Hyper/AutoLandScapeMaterial/Maps/Canyon/Map_Canyon.umap filter=lfs diff=lfs merge=lfs -text
+Content/Hyper/AutoLandScapeMaterial/Maps/Mountain/Map_Mountain.umap filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*/map/*.umap filter=lfs diff=lfs merge=lfs -text
