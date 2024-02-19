@@ -9,3 +9,10 @@ Content/Hyper/AutoLandScapeMaterial/Maps/Mountain/Map_Mountain.umap filter=lfs d
 Gideon_Status_Victory_040.uasset filter=lfs diff=lfs merge=lfs -text
 *Gideon_Status_Victory_040.uasset filter=lfs diff=lfs merge=lfs -text
 *T_Head_highpass_S.uasset filter=lfs diff=lfs merge=lfs -text
+*1978_LargeRoom_IR.uasset filter=lfs diff=lfs merge=lfs -text
+*Emote_FingerGuns_0* filter=lfs diff=lfs merge=lfs -text
+*music_desert* filter=lfs diff=lfs merge=lfs -text
+*T_*.uasset filter=lfs diff=lfs merge=lfs -text
+*SmokeSwirl_3_Flipbook_CHANNELPACK.uasset filter=lfs diff=lfs merge=lfs -text
+*SM_pine_tree_01.uasset filter=lfs diff=lfs merge=lfs -text
+*SM_pine_tree_0* filter=lfs diff=lfs merge=lfs -text
